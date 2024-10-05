@@ -1,2 +1,3 @@
 # project-demo
-This is My First Project
+This is My First Repository.
+Author: Dilsher Rana
